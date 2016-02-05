@@ -62,7 +62,7 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is about travel behaviour. We are interested in your attitude towards car and public transport as travel alternatives for middle-distance trips.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+  <item id="introText">This study is about views on First Nations community water quality security. We are interested in your attitude towards car and public transport as travel alternatives for middle-distance trips.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
