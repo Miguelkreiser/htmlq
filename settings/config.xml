@@ -58,7 +58,7 @@
 	<input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
 
     <label>For the majority of your adolescence, what kind of environment did you grow up in?</label>
-	<input type="checkbox" required="false">acreage/farm;town/village(<5,000);small city (<50,000);Large city</input>
+	<input type="checkbox" required="false">acreage/farm;town/village(less than 5,000);small city (less than 50,000);Large city</input>
 
     <label>What kind of transportation do you prefer?</label>
 	<input type="select" required="false">Car;Railroad;Bike</input>
