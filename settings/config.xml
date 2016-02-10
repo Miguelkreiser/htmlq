@@ -55,10 +55,10 @@
 	<input type="radio" required="true">female;male</input>
 
     <label>Please answer the following questions.</label>
-	<input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
+	<input type="rating2" required="false" scale="Yes;No;">Have you experienced a water boil advisory in the past?;Have you experienced a water boil advisory in the past for longer than 1 week?;Have you experienced a water boil advisory in the past for longer than 1 month?</input>
 
-    <label>For the majority of your adolescence, what kind of environment did you grow up in? Please select only one</label>
-	<input type="checkbox" required="false">acreage/farm;town/village (less than 5,000);small city (less than 50,000);Large city</input>
+    <label>Please check one of the following ethnicities you most identify with</label>
+	<input type="checkbox" required="false">Caucasian;African;Asian;Hispanic;First Nations;Other</input>
 
     <label>What kind of transportation do you prefer?</label>
 	<input type="select" required="false">Car;Railroad;Bike</input>
