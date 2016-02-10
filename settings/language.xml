@@ -62,7 +62,7 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is about First Nations community water quality security. We are interested in your views towards First Nations water quality provisions.{br}{br}Please maximize your browser window and click on the continue-button to start the Q-sort.</item>
+  <item id="introText">This study is about First Nations community water quality security. We are interested in your views and knowledge on the subject.{br}{br}Please maximize your browser window and click on the continue-button to start the Q-sort.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
@@ -70,11 +70,11 @@
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
-  <item id="step2Text">Take the cards from the "AGREE"-pile and read them again. You can scroll through the statements by using the scroll bar. Next, select the two statements you most agree with and place them on right side of the score sheet below the "+2".{br}{br}Now read the cards in the "DISAGREE"-pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-2".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+1"/"-1". Follow this procedure for all cards in the "AGREE"- and "DIAGREE"-pile.{br}{br}Finally, read the "NEUTRAL"-cards again and arange them in the remaining open boxes of the score sheet.</item>
+  <item id="step2Text">Take the cards from the "AGREE"-pile and read them again. You can scroll through the statements by using the scroll bar and drag the statements to the desired box frames. Next, select the two statements you most agree with and place them on right side of the score sheet below the "+4".{br}{br}Now read the cards in the "DISAGREE"-pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-4".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+3"/"-3". Follow this procedure for all cards in the "AGREE"- and "DIAGREE"-pile.{br}{br}Finally, read the "NEUTRAL"-cards again and arange them in the remaining open boxes of the score sheet.</item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
-  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
+  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
