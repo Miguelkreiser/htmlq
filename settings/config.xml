@@ -26,7 +26,7 @@
   <!-- login required (true|false) -->
   <item id="loginrequired">false</item>
   <!-- login with common password (leave blank if not required) -->
-  <item id="loginPassword"></item>
+  <item id="loginPassword">firstnations</item>
   <!-- URL to individual login script(leave blank if not required) -->
   <item id="loginUrl"></item>
   <!-- request mode (post|get) -->
