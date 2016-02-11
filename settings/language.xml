@@ -65,28 +65,24 @@
   <item id="introText">This study is about First Nations community water quality security. We are interested in your views and knowledge on the subject.{br}{br}Please maximize your browser window and click on the continue-button to start the Q-sort.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
-  <item id="step1Head">Step 1 of 9</item>
+  <item id="step1Head">Step 1 of 5</item>
   <item id="step1Text">Read the folowing statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for neutral views.{br}{br}You can either drag the cards into one of the three piles or press 1, 2, 3 on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
-  <item id="step2Head">Step 2 of 9</item>
+  <item id="step2Head">Step 2 of 5</item>
   <item id="step2Text">Take the cards from the "AGREE"-pile and read them again. You can scroll through the statements by using the scroll bar and drag the statements to the desired box frames. Next, select the two statements you most agree with and place them on right side of the score sheet below the "+4".{br}{br}Now read the cards in the "DISAGREE"-pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-4".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+3"/"-3". Follow this procedure for all cards in the "AGREE"- and "DIAGREE"-pile.{br}{br}Finally, read the "NEUTRAL"-cards again and arange them in the remaining open boxes of the score sheet.</item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
-  <item id="step3Head">Step 3 of 9</item>
+  <item id="step3Head">Step 3 of 5</item>
   <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
-  <item id="step4Head">Step 4 of 9</item>
+  <item id="step4Head">Step 4 of 5</item>
   <item id="step4Text">Please explain why you agree most or disagree most with the following statements you have placed below "+4" or "-4".{br}{br}</item>
 
-  <!-- step5: rough sorting into three piles (leave blank to skip popup)-->
-  <item id="step5Head">Step 5 of 9</item>
-  <item id="step5Text">Read the follwing statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for neutral views.{br}{br}You can either drag the cards into one of the three piles or press 1, 2, 3 on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
-
-  <!-- step6: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
-  <item id="step6Head">Step 6 of 9</item>
-  <item id="step6Text">Finally, please answer the following questions regarding your background.{br}{br}{i}{i}</item>
+  <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+  <item id="step5Head">Step 5 of 5</item>
+  <item id="step5Text">Finally, please answer the following questions regarding your background.{br}{br}{i}{i}</item>
 
   <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
   <item id="transferHead">Submit Data</item>
