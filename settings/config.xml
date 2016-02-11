@@ -58,7 +58,7 @@
 	<input type="rating2" required="false" scale="Yes;No;">Have you experienced a water boil advisory in the past?;Have you experienced a water boil advisory in the past for longer than 1 week?;Have you experienced a water boil advisory in the past for longer than 1 month?</input>
 
     <label>Please check one of the following ethnicities you most identify with</label>
-	<input type="checkbox" required="false">Caucasian;African;Asian;Hispanic;First Nations;Other</input>
+	<input type="checkbox" required="false">Caucasian;African;Asian;Hispanic;Indigenous;Other</input>
 
     <label>Comments</label>
 	<input type="textarea" required="false"></input>
