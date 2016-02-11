@@ -51,17 +51,14 @@
 	<input type="text" required="true" maxlength="4" restricted="0-9"></input>
 
     <label>Gender*</label>
-	<note>Please select your gender.</note>
-	<input type="radio" required="true">female;male</input>
+	<note>Please select the gender you most identify with.</note>
+	<input type="radio" required="true">female;male;transgender;other</input>
 
     <label>Please answer the following questions.</label>
 	<input type="rating2" required="false" scale="Yes;No;">Have you experienced a water boil advisory in the past?;Have you experienced a water boil advisory in the past for longer than 1 week?;Have you experienced a water boil advisory in the past for longer than 1 month?</input>
 
     <label>Please check one of the following ethnicities you most identify with</label>
 	<input type="checkbox" required="false">Caucasian;African;Asian;Hispanic;First Nations;Other</input>
-
-    <label>What kind of transportation do you prefer?</label>
-	<input type="select" required="false">Car;Railroad;Bike</input>
 
     <label>Comments</label>
 	<input type="textarea" required="false"></input>
