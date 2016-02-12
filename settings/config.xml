@@ -35,7 +35,7 @@
   <!-- activate/deactivate optional steps (true|false) -->
   <item id="showStep3">true</item>
   <item id="showStep4">true</item>
-  <item id="showStep5">false</item>
+  <item id="showStep5">true</item>
 
   <!-- HtmlQ only: disable the in-window back button -->
   <item id="disableBackButton">true</item>
@@ -46,22 +46,9 @@
   <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
   <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
   <item id="form">
-    <label>Age*</label>
-	<note>Please enter your year of birth (YYYY, eg. 1980).</note>
-	<input type="text" required="true" maxlength="4" restricted="0-9"></input>
-
-    <label>Gender*</label>
-	<note>Please select the gender you most identify with.</note>
-	<input type="radio" required="true">female;male;transgender;other</input>
-
-    <label>Please answer the following questions.</label>
-	<input type="rating2" required="false" scale="Yes;No;">Have you experienced a water boil advisory in the past?;Have you experienced a water boil advisory in the past for longer than 1 week?;Have you experienced a water boil advisory in the past for longer than 1 month?</input>
-
-    <label>Please check one of the following ethnicities you most identify with</label>
-	<input type="checkbox" required="false">Caucasian;African;Asian;Hispanic;Indigenous;Other</input>
-
-    <label>Comments</label>
-	<input type="textarea" required="false"></input>
+    <label>NSID*</label>
+	<note>Please enter your NSID.</note>
+	<input type="text" required="true" maxlength="6"></input>
 
     <note bg="false">All fields marked with an * are mandatory.</note>
   </item>
