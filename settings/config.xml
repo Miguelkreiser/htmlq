@@ -46,11 +46,9 @@
   <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
   <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
   <item id="form">
-    <label>NSID*</label>
+    <label>NSID</label>
 	<note>Please enter your NSID.</note>
 	<input type="text" required="true" maxlength="6"></input>
-
-    <note bg="false">All fields marked with an * are mandatory.</note>
   </item>
 
   <!-- URL for data transmission via POST/GET (leave blank if not required) -->
