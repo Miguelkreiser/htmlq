@@ -48,6 +48,9 @@
   <item id="errorHead">Error!</item>
   <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
+  <!-- welcome screen (leave blank to skip screen) --> 
+ <item id="welcomeHead">Welcome!</item>
+ <item id="welcomeText">Please press continue</item>
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
   <item id="loginText">Please enter your user code. Please note, that in this demo any user code will be accepted.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
